@@ -24,6 +24,11 @@ class ViewController: UIViewController {
     
         print("Do something!")
     }
+    
+    func doSomethingTwo(){
+        
+        print("Do somethingTwo!")
+    }
 
 
 }
