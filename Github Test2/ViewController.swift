@@ -31,6 +31,13 @@ class ViewController: UIViewController {
         print("Do somethingTwo!")
 
     }
+    
+    func mustSeeJeric(){
+        
+        
+        print("Do somethingTwo!")
+        
+    }
 
 
 }
