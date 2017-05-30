@@ -14,6 +14,7 @@
 		10D4990D1EDD24440072974F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10D4990B1EDD24440072974F /* LaunchScreen.storyboard */; };
 		10D499181EDD24450072974F /* Github_Test2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D499171EDD24450072974F /* Github_Test2Tests.swift */; };
 		10D499231EDD24450072974F /* Github_Test2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D499221EDD24450072974F /* Github_Test2UITests.swift */; };
+		10D499311EDD3A590072974F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D499301EDD3A590072974F /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		10D4991E1EDD24450072974F /* Github Test2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Github Test2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10D499221EDD24450072974F /* Github_Test2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Github_Test2UITests.swift; sourceTree = "<group>"; };
 		10D499241EDD24450072974F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10D499301EDD3A590072974F /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				10D499091EDD24440072974F /* Assets.xcassets */,
 				10D4990B1EDD24440072974F /* LaunchScreen.storyboard */,
 				10D4990E1EDD24440072974F /* Info.plist */,
+				10D499301EDD3A590072974F /* SecondViewController.swift */,
 			);
 			path = "Github Test2";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10D499311EDD3A590072974F /* SecondViewController.swift in Sources */,
 				10D499051EDD24440072974F /* ViewController.swift in Sources */,
 				10D499031EDD24440072974F /* AppDelegate.swift in Sources */,
 			);
