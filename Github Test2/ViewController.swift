@@ -38,6 +38,11 @@ class ViewController: UIViewController {
         print("Do somethingTwo!")
         
     }
+    
+    
+    @IBAction func goToSVCAction(_ sender: Any) {
+        performSegue(withIdentifier: "goToSecondViewController", sender: nil)
+    }
 
 
 }
